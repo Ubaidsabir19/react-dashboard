@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8BxnJvfe-jW3MSctMfM3mkkVk5RbhE4Khfg&s",
+      "score": 1200,
+      "rank": 2
+    },
+    {
+      "id": 2,
+      "name": "John Smith",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7j9IDpZsbq4HghrNPneZustxYupRgrt0oQ&s",
+      "score": 1100,
+      "rank": 7
+    },
+    {
+      "id": 3,
+      "name": "Ronaldo",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpNkvN4dtiCMMufGSgGjjvXqleSqX6OGe8ow&s",
+      "score": 1100,
+      "rank": 1
+    },
+    {
+      "id": 4,
+      "name": "James Smith",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpNkvN4dtiCMMufGSgGjjvXqleSqX6OGe8ow&s",
+      "score": 1100,
+      "rank": 11
+    },
+    {
+      "id": 5,
+      "name": "Harry Doe",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpNkvN4dtiCMMufGSgGjjvXqleSqX6OGe8ow&s",
+      "score": 1100,
+      "rank": 4
+    }
+  ]
+  

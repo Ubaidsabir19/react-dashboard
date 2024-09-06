@@ -1,0 +1,21 @@
+{
+    "2024-09-05": [
+      { "time": "10:00", "onlinePlayers": 40, "offlinePlayers": 60, "playingGame": 25 },
+      { "time": "12:00", "onlinePlayers": 55, "offlinePlayers": 45, "playingGame": 35 },
+      { "time": "14:00", "onlinePlayers": 70, "offlinePlayers": 30, "playingGame": 50 },
+      { "time": "16:00", "onlinePlayers": 65, "offlinePlayers": 35, "playingGame": 40 }
+    ],
+    "2024-09-04": [
+      { "time": "10:00", "onlinePlayers": 30, "offlinePlayers": 70, "playingGame": 20 },
+      { "time": "12:00", "onlinePlayers": 45, "offlinePlayers": 55, "playingGame": 25 },
+      { "time": "14:00", "onlinePlayers": 60, "offlinePlayers": 40, "playingGame": 35 },
+      { "time": "16:00", "onlinePlayers": 50, "offlinePlayers": 50, "playingGame": 30 }
+    ],
+    "2024-09-03": [
+      { "time": "10:00", "onlinePlayers": 25, "offlinePlayers": 75, "playingGame": 15 },
+      { "time": "12:00", "onlinePlayers": 40, "offlinePlayers": 60, "playingGame": 30 },
+      { "time": "14:00", "onlinePlayers": 55, "offlinePlayers": 45, "playingGame": 40 },
+      { "time": "16:00", "onlinePlayers": 50, "offlinePlayers": 50, "playingGame": 35 }
+    ]
+  }
+  

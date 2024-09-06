@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "icon": "HiOutlineBuildingLibrary",
+      "heading": "Total Players",
+      "text": "3980"
+    },
+    {
+      "id": 2,
+      "icon": "HiOutlineUserGroup",
+      "heading": "Active Users",
+      "text": "2500"
+    },
+    { 
+      "id": 3,
+      "icon": "HiOutlineChartBar",
+      "heading": "Revenue",
+      "text": "$12,000"
+    },
+    {
+      "id": 4,
+      "icon": "HiOutlineClock",
+      "heading": "Uptime",
+      "text": "99.9%"
+    }
+  ]
+  
