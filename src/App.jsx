@@ -2,7 +2,7 @@
 import { Route, Routes } from 'react-router-dom'
 import './App.css'
 import Dashboard from './pages/Dashboard'
-import Header from './components/header'
+import Header from './components/Headers';
 import SideBar from './components/SideBar'
 import Profile from './pages/Players'
 import { useState } from 'react'
