@@ -22,7 +22,7 @@ const SideBar = ({ isSidebarOpen }) => {
         <ul className="space-y-4">
           <li
             className={`flex items-center text-white hover:text-blue-400 ${
-              location.pathname === '/' ? 'bg-white text-black' : ''
+              location.pathname === '/' ? ' text-black' : ''
             } p-3 rounded`}
           >
             <Link to="/" className="flex items-center w-full">
@@ -31,7 +31,7 @@ const SideBar = ({ isSidebarOpen }) => {
           </li>
           <li
             className={`flex items-center text-white hover:text-blue-400 ${
-              location.pathname === '/players' ? 'bg-white text-black' : ''
+              location.pathname === '/players' ? ' text-black' : ''
             } p-3 rounded`}
           >
             <Link to="/players" className="flex items-center w-full">
@@ -40,7 +40,7 @@ const SideBar = ({ isSidebarOpen }) => {
           </li>
           <li
             className={`flex items-center text-white hover:text-blue-400 ${
-              location.pathname === '/settings' ? 'bg-white text-black' : ''
+              location.pathname === '/settings' ? ' text-black' : ''
             } p-3 rounded`}
           >
             <a href="#" className="flex items-center w-full">
@@ -49,7 +49,7 @@ const SideBar = ({ isSidebarOpen }) => {
           </li>
           <li
             className={`flex items-center text-white hover:text-blue-400 ${
-              location.pathname === '/logout' ? 'bg-white text-black' : ''
+              location.pathname === '/logout' ? ' text-black' : ''
             } p-3 rounded`}
           >
             <a href="#" className="flex items-center w-full">
